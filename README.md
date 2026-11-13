@@ -15,7 +15,7 @@ During this project, I focused on answering the following business questions:
 5. Which are the top 10 states contributing to overall sales?
 6. What is the relationship between age group and gender based on the number of orders?
 7. Which sales channel contributes the most to overall sales?
-8. Which product category has the highest sales?
+8.  Which product category has the highest sales?
 
 
 3. Tools & Technologies
