@@ -18,7 +18,7 @@ During this project, I focused on answering the following business questions:
 8.  Which product category has the highest sales?
 
 
- 3.ools & Technologies
+3.Tools & Technologies
 - Microsoft Excel
 - Excel Formulas and Functions
 - Data Cleaning
