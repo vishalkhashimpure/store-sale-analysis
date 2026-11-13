@@ -17,6 +17,7 @@ During this project, I focused on answering the following business questions:
 7. Which sales channel contributes the most to overall sales?
 8. Which product category has the highest sales?
 
+
 3. Tools & Technologies
 - Microsoft Excel
 - Excel Formulas and Functions
